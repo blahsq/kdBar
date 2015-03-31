@@ -8,6 +8,7 @@
          
          _this.css({
              'position': 'fixed',
+             'background': settings.backgroundColor,
              'height': settings.height + 'px'
          });
          $(window).on('scroll', function() {
