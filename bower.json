@@ -1,0 +1,17 @@
+{
+  "name": "kdBar",
+  "main": "kdBar.js",
+  "version": "0.1.0",
+  "homepage": "https://github.com/blahsq/kdBar",
+  "authors": [
+    "Krzysztof Dalek <esq.pwsz@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
